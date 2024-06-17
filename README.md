@@ -1,8 +1,17 @@
-# React + Vite
+# gym-web-store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to GymGo, a Web Store for the best Gym Equipment!
+This application allows users to browse and purchase various gym equipment online.
+to set up and run the application locally:
+1. install dependencies in both backend and frontend folders by "npm install" command.
+2. run "npm start" at the backend folder.
+3. run "npm run dev" at the frontend folder.
 
-Currently, two official plugins are available:
+# Technologies used
+Backend:
+- Node.js
+- Express
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend:
+- React
+- Redux (for state management)
